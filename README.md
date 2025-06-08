@@ -32,3 +32,11 @@ Bank Application is a simple banking application built using Spring Boot. It dem
    ```bash
    git clone https://github.com/your-username/MySpringBank.git
    cd MySpringBank
+
+---
+
+## 👤 Author
+
+Ajay Joy
+📧 ajayjoypala@gmail.com
+🔗 www.linkedin.com/in/ajay-joy-91802229a
