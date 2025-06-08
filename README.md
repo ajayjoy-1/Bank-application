@@ -10,7 +10,7 @@ MySpringBank is a simple banking application built using **Spring Boot**. It dem
 - Deposit and withdraw money
 - View account balances
 - RESTful APIs with Spring Boot
-- In-memory H2 database (or update with MySQL if used)
+- In-memory H2 database 
 
 ---
 
